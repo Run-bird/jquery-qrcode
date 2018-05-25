@@ -27,7 +27,7 @@ Enhancer.registerWidget({
     getData: function() {
         var $container = this.$container;
         return {
-            'QRCODE_CONTENT': $container.find('qrcode_wrap').attr('content') || ''
+            'QRCODE_CONTENT': $container.find('#qrcode_wrap').attr('content') || ''
         };
     },
     isValid: function() {
