@@ -2,7 +2,7 @@
 ### 查看Demo 【账号】test 【密码】123456
 ### 简介 [Demo](http://47.96.99.14:5301/#115)
 - jquery-qrcode是基于[Enhancer](https://enhancer.io)平台开发的组件, 能在此平台上良好运行。
-- jquery-qrcode可将 数据 , Html 和 Excel 任意转换。
+- jquery-qrcode可将文本转化为二维码。
 
 ### 生成界面
 ![](https://github.com/Run-bird/jquery-qrcode/blob/master/images/WechatIMG1.jpeg)
@@ -24,7 +24,7 @@
 ```
 
 ### 组件功能
-- 讲文本转化成二维码
+- 将文本转化成二维码
 
 
 ### 可用事件说明
