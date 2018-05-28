@@ -1,6 +1,6 @@
 ## Enhancer三方组件 jquery-qrcode 使用说明
-### 查看Demo 【账号】test 【密码】123456
-### 简介 [Demo](http://47.96.99.14:5301/#115)
+### 查看Demo 【账号】visit 【密码】111111
+### 简介 [Demo](http://47.96.99.14:5301/#103)
 - jquery-qrcode是基于[Enhancer](https://enhancer.io)平台开发的组件, 能在此平台上良好运行。
 - jquery-qrcode可将文本转化为二维码。
 
@@ -32,7 +32,7 @@
 - 【事件 ID】onQrcodeClick
 - 【触发时机】单击生成的二维码时。
 
-### 可用变量说明 [Demo](http://47.96.99.14:5301/#114)
+### 可用变量说明 [Demo](http://47.96.99.14:5301/#104)
 #### QRCODE_CONTENT
 - 【类型】string
 - 【说明】二维码文本内容
