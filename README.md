@@ -36,7 +36,7 @@
 #### QRCODE_CONTENT
 - 【类型】string
 - 【说明】二维码文本内容
-- 【示例】'https://enahncer.io'
+- 【示例】'https://enhancer.io'
 
 ### 其它
 - [Enhancer 教程](https://enhancer.io/tutorials)
